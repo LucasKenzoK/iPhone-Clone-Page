@@ -1,4 +1,4 @@
-# 📳hDC Host WebSite📳
+# 📳iPhone Clone Page📳
 ## Introdução
 site feito em **HTML5 & CSS3** & **JavaScript** para vendas de iPhones
 ## Funções
